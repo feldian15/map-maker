@@ -1,0 +1,2 @@
+# MVP Scope
+- A python application that allows a user to specify the length and shape of a walking/running/biking/etc route from a starting location to an ending location and recieve directions for that route.
